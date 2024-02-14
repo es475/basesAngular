@@ -1,0 +1,22 @@
+git add .
+git commit -m "mensaje"
+git checkout --.
+
+npm install //para descargar los paquetes de node
+
+ng g m dbz // crear un modulo
+
+ng build
+
+<!-- <h2>{{title}}</h2>
+<hr>
+
+<app-counter></app-counter>
+
+<hr>
+
+<app-heroes-hero></app-heroes-hero>
+
+<hr>
+
+<app-heroes-list></app-heroes-list> -->
